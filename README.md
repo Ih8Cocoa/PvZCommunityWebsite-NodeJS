@@ -1,4 +1,4 @@
-# meowmeowproj
+# PvZCommunityWebsite-NodeJS Project
 
 ## Project setup
 ```
